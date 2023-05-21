@@ -1,6 +1,8 @@
 # Using Kalman filtering techniques to obtain a better State of Charge-estimation of the battery pack of a Solar Car
 Demo repository for the thesis "Using Kalman filtering techniques to obtain a better State of Charge-estimation of the battery pack of a Solar Car" by Frederik Vanmaele.
+
 Promotor: Prof. Dr. Ir. Bart De Moor
+
 Supervisor: Ir. Mauricio Agudelo
 
 
