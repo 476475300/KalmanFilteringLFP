@@ -17,11 +17,11 @@ The output of the different models on the race data can be viewed by running the
 
 # Kalman Filtering
 The files that do not start with UKF or EKF are helper functions.
-# EKF
+## EKF
 EKF_main contains the framework of the Extended Kalman Filtering algorithm.
 EKF_script runs the EKF_main file for the BWSC race data obtained in the lab on the sample cells.
 EKF_Marokko runs the EKF_main file with the real data of the Solar Challenge Morocco. 
-# UKF
+## UKF
 Completely analogue.
 
 
